@@ -6,7 +6,7 @@ To view it working, you can clone or download the repo and open `index.html` in 
 
 Credits
 =======
-Jointly designed by <a href="https://github.com/yveyeh">Yufenyuy Veyeh Didier</a> and <a href="https://github.com/yveyeh">Ndi Britha Lea</a> with inspiration drawn from Udacity's course.
+Jointly designed by <a href="https://github.com/yveyeh">Yufenyuy Veyeh Didier</a> and <a href="https://github.com/NdiBrithaLea">Ndi Britha Lea</a> with inspiration drawn from Udacity's course.
 
 License
 =======
