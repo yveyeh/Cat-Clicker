@@ -11,7 +11,8 @@ Jointly designed by <a href="https://github.com/yveyeh">Yufenyuy Veyeh Didier</a
 Please visit <a href="https://github.com/yveyeh/Cat-Clicker/blob/master/LICENSE">here</a> for license on this application.
 
 
-### Possible updates to come
+#### Possible updates to come
+=============================
 - Add "alt" attribute to images.
 - Enhance css for more oustanding appearance.
 - Add functionality for admin to create new objects, instead of just editing.
