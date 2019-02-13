@@ -13,5 +13,6 @@ Please visit <a href="https://github.com/yveyeh/Cat-Clicker/blob/master/LICENSE"
 
 #### * Possible updates to come *
 - Add "alt" attribute to images.
+- Admin will not be able to edit clicks (*Just name, image url, and alt when it will be added*).
 - Enhance css for more oustanding appearance.
 - Add functionality for admin to create new objects, instead of just editing.
